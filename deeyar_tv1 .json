@@ -1,0 +1,43 @@
+{
+  "channel_name": "Deeyar TV",
+  "founder": "Zaid Jawanmard",
+  "launch_year": 2025,
+  "broadcast_platforms": [
+    "Roku",
+    "Samsung Smart TV",
+    "LG Smart TV",
+    "iOS",
+    "Android",
+    "Website"
+  ],
+  "streaming_url": "https://59d39900ebfb8.streamlock.net/viet-sports/viet-sports/playlist.m3u8",
+  "thumbnail_url": "https://drive.google.com/uc?export=view&id=1DP8xL4gC1K2AUHkU1w-q-W8Nq6OBDyfK",
+  "categories": [
+    "News",
+    "Politics",
+    "Social",
+    "Cultural",
+    "Educational",
+    "Entertainment",
+    "Music",
+    "Cooking Competitions"
+  ],
+  "languages": {
+    "primary": "Dari",
+    "secondary": "Pashto",
+    "additional": ["English"]
+  },
+  "contact_info": {
+    "email": "info@deeyar.tv",
+    "phone": "+15408007888",
+    "website": "https://deeyar.tv",
+    "telegram": "https://t.me/DeeyarTV",
+    "whatsapp": "https://wa.me/15408007888"
+  },
+  "social_media": {
+    "facebook": "https://facebook.com/DeeyarTV",
+    "instagram": "https://instagram.com/DeeyarTV",
+    "youtube": "https://youtube.com/DeeyarTV",
+    "twitter": "https://x.com/DeeyarTV"
+  }
+}
